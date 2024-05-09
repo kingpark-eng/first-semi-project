@@ -5,6 +5,6 @@ import lombok.Data;
 @Data
 public class FileVO {
 
-	private String fileNm;
+	private String fileName;
 	private String filePath;
 }
